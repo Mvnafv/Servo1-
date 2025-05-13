@@ -6,4 +6,10 @@ Mi primer Servo con Arduino
 Este proyecto consistira en un LDR que controle el movimiento de un Servomotor
 
 toDo: Subir el codigo
+
 toDo: Subir esquematico
+
+
+## Imagen Extraida de google
+
+![giphy](./giphy.gif)
