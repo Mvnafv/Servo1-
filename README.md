@@ -37,8 +37,3 @@ void loop() {
 
 toDo: Subir esquematico
 
-
-## Imagen Extraida de google
-
-![giphy](./giphy.gif)
-
